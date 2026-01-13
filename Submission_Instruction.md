@@ -1,4 +1,4 @@
-# Machine Learning Project
+# Computer Vision FInal Project
 
 Submission Instruction
 
