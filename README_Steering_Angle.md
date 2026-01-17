@@ -2,6 +2,7 @@
 
 **Lane Detection and Steering Angle Estimation** is a vision-based perception and control system that detects lane regions and estimates the steering angle using deep learning and filtering techniques. The project integrates semantic segmentation, geometric curve fitting, and Kalman filtering into a complete pipeline designed for autonomous driving applications. :contentReference[oaicite:1]{index=1}
 
+Repository: https://github.com/alvitowongsonegoro-bit/Lane-Detection-and-Steering-Angle-Estimation.git
 ---
 
 ## 🧠 Project Summary
